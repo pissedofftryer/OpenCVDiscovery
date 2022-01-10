@@ -2,8 +2,8 @@
 
 Simple repo to save what I tested with OpenCV.
 
-- TutoBasicI_intro.ipynb : Quick'n'Dirty Intro
-- TutoBasicII_traffic.ipynb : Car recognitions
+- TutoBasicI_intro.ipynb : Quick'n'Dirty Intro (Basic stuff)
+- TutoBasicII_traffic.ipynb : Car recognitions (Frame differencing method)
 
 #### Reminder
 
