@@ -2,6 +2,9 @@
 
 Simple repo to save what I tested with OpenCV.
 
+- TutoBasicI_intro.ipynb : Quick'n'Dirty Intro
+- TutoBasicII_traffic.ipynb : Car recognitions
+
 #### Reminder
 
 ```console
